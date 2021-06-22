@@ -1,3 +1,3 @@
 # Algorithms
 
-this repository is all about algorithm and datastructure implementation
+this repository is all about algorithm challenges problem solving and datastructure implementation
